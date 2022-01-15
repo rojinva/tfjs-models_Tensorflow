@@ -12,7 +12,7 @@
     "clang-format": "~1.2.2",
     "fs": "~0.0.1-security",
     "jasmine": "~3.1.0",
-    "shelljs": "0.8.2",
+    "shelljs": "0.8.5",
     "ts-node": "~5.0.0",
     "typescript": "~2.9.2",
     "yalc": "~1.0.0-pre.21"
